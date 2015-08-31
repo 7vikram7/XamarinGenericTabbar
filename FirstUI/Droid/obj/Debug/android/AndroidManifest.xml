@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="FirstUI.Droid">
   <uses-sdk android:minSdkVersion="15" />
   <application android:name="mono.android.app.Application" android:debuggable="true">
-    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="FirstUI.Droid" android:name="firstui.droid.MainActivity" />
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="FirstUI.Droid" android:name="md5dd098184564f997dc6a636963e8fcd2b.MainActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="FirstUI.Droid.mono.MonoRuntimeProvider.__mono_init__" />
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>

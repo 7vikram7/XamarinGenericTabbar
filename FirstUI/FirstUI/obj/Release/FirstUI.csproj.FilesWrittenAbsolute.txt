@@ -1,7 +1,7 @@
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Release/FirstUI.dll.mdb
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Release/FirstUI.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/obj/Release/FirstUI.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/obj/Release/FirstUI.dll.mdb
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Release/Xamarin.Forms.Core.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Release/Xamarin.Forms.Xaml.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/bin/Release/FirstUI.dll.mdb
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/bin/Release/FirstUI.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/obj/Release/FirstUI.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/obj/Release/FirstUI.dll.mdb
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/bin/Release/Xamarin.Forms.Core.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/bin/Release/Xamarin.Forms.Xaml.dll

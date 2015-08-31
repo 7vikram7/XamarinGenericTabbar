@@ -1,17 +1,7 @@
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/Xamarin.Forms.Core.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/Xamarin.Forms.Xaml.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/FirstUI.dll.mdb
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/FirstUI.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/obj/Debug/FirstUI.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/obj/Debug/FirstUI.dll.mdb
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/mscorlib.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/System.Core.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/System.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/System.Linq.Queryable.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/System.Diagnostics.Tools.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/System.ComponentModel.EventBasedAsync.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/System.Net.Primitives.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/System.Net.Requests.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/System.Net.NetworkInformation.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/System.Text.RegularExpressions.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/bin/Debug/FirstUI.dll.mdb
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/bin/Debug/FirstUI.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/obj/Debug/FirstUI.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/obj/Debug/FirstUI.dll.mdb
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/FirstUI/bin/Debug/Xamarin.Forms.Xaml.dll

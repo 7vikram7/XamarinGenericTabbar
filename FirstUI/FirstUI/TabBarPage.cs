@@ -11,6 +11,10 @@ namespace FirstUI
 
 		Button Tab2Button;
 
+		SuccessPage SuccessPage = new SuccessPage();
+
+		RegisterViewController RegisterViewController = new RegisterViewController();
+
 		RelativeLayout CurrentRelativeLayout;
 
 
@@ -30,7 +34,8 @@ namespace FirstUI
 			CreateTab1Button ();
 			CreateTab2Button ();
 
-//			CreateChildSuccessPage ();
+			CreateChildSuccessPage ();
+			CreateChildRegisterPage ();
 
 
 		}
@@ -47,7 +52,8 @@ namespace FirstUI
 				Constraint.Constant(20),
 				Constraint.RelativeToParent ((parent)=> {
 					return parent.Width/2;
-				})
+				}),
+				Constraint.Constant(64)
 
 			
 			);
@@ -69,26 +75,54 @@ namespace FirstUI
 
 				Constraint.RelativeToParent ((parent)=> {
 					return parent.Width/2;
+				}),
+				Constraint.Constant(64)
+
+			);
+
+		}
+
+		private void CreateChildSuccessPage() {
+			SuccessPage.Content.IsVisible = false;
+			CurrentRelativeLayout.Children.Add(SuccessPage.Content,
+				Constraint.Constant(0),
+				Constraint.Constant(84),
+				Constraint.RelativeToParent ((parent)=> {
+					return parent.Width;
+				}),
+				Constraint.RelativeToParent ((parent)=> {
+					return parent.Height - 64;
 				})
 			);
 
 		}
 
-//		private void CreateChildSuccessPage() {
-//
-//			CurrentRelativeLayout.Children.Add(SuccessPage.Content);
-//
-//		}
+		private void CreateChildRegisterPage() {
+
+			CurrentRelativeLayout.Children.Add(RegisterViewController.Content,
+				Constraint.Constant(0),
+				Constraint.Constant(84),
+				Constraint.RelativeToParent ((parent)=> {
+					return parent.Width;
+				}),
+				Constraint.RelativeToParent ((parent)=> {
+					return parent.Height - 64;
+				})
+			);
+
+		}
 
 		public void Tab1Tapped (object sender, EventArgs e){
 
-//			SuccessPage.Content.IsVisible = false;
+			SuccessPage.Content.IsVisible = false;
+			RegisterViewController.Content.IsVisible = true;
 
 		}
 
 		public void Tab2Tapped (object sender, EventArgs e){
 
-//			SuccessPage.Content.IsVisible = true;
+			SuccessPage.Content.IsVisible = true;
+			RegisterViewController.Content.IsVisible = false;
 
 
 		}

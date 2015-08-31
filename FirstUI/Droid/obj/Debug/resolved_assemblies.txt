@@ -1,53 +1,65 @@
-/Users/vickysreddevil/Projects/FirstUI/Droid/bin/Debug/FirstUI.Droid.dll
-/Users/vickysreddevil/Projects/FirstUI/packages/Xamarin.Android.Support.v4.19.1.0/lib/MonoAndroid10/Xamarin.Android.Support.v4.dll
-/Users/vickysreddevil/Projects/FirstUI/packages/Xamarin.Forms.1.3.1.6296/lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll
-/Users/vickysreddevil/Projects/FirstUI/packages/Xamarin.Forms.1.3.1.6296/lib/MonoAndroid10/FormsViewGroup.dll
-/Users/vickysreddevil/Projects/FirstUI/packages/Xamarin.Forms.1.3.1.6296/lib/MonoAndroid10/Xamarin.Forms.Core.dll
-/Users/vickysreddevil/Projects/FirstUI/packages/Xamarin.Forms.1.3.1.6296/lib/MonoAndroid10/Xamarin.Forms.Xaml.dll
-/Users/vickysreddevil/Projects/FirstUI/FirstUI/bin/Debug/FirstUI.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Collections.Concurrent.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Collections.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.ComponentModel.Annotations.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.ComponentModel.EventBasedAsync.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.ComponentModel.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Diagnostics.Contracts.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Diagnostics.Debug.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Diagnostics.Tools.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Dynamic.Runtime.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Globalization.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.IO.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Linq.Expressions.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Linq.Parallel.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Linq.Queryable.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Linq.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Net.NetworkInformation.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Net.Primitives.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Net.Requests.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.ObjectModel.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Reflection.Emit.ILGeneration.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Reflection.Emit.Lightweight.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Reflection.Emit.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Reflection.Extensions.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Reflection.Primitives.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Reflection.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Resources.ResourceManager.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Runtime.Extensions.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Runtime.InteropServices.WindowsRuntime.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Runtime.InteropServices.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Runtime.Numerics.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Runtime.Serialization.Json.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Runtime.Serialization.Primitives.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Runtime.Serialization.Xml.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Runtime.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Security.Principal.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.ServiceModel.Http.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.ServiceModel.Primitives.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Text.Encoding.Extensions.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Text.Encoding.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Text.RegularExpressions.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Threading.Tasks.Parallel.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Threading.Tasks.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Threading.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Xml.ReaderWriter.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Xml.XDocument.dll
-/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Xml.XmlSerializer.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/FirstUI.Droid.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Xml.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/Mono.Android.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/Xamarin.Forms.Platform.Android.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/FormsViewGroup.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/Xamarin.Forms.Core.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/Xamarin.Forms.Xaml.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Core.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/FirstUI.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/mscorlib.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Collections.Concurrent.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Collections.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.ComponentModel.Annotations.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.ComponentModel.EventBasedAsync.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.ComponentModel.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Diagnostics.Contracts.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Diagnostics.Debug.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Diagnostics.Tools.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Dynamic.Runtime.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Globalization.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.IO.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Linq.Expressions.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Linq.Parallel.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Linq.Queryable.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Linq.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Net.NetworkInformation.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Net.Primitives.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Net.Requests.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.ObjectModel.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Reflection.Emit.ILGeneration.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Reflection.Emit.Lightweight.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Reflection.Emit.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Reflection.Extensions.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Reflection.Primitives.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Reflection.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Resources.ResourceManager.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Runtime.Extensions.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Runtime.InteropServices.WindowsRuntime.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Runtime.InteropServices.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Runtime.Numerics.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Runtime.Serialization.Json.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Runtime.Serialization.Primitives.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Runtime.Serialization.Xml.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Runtime.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Security.Principal.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.ServiceModel.Http.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.ServiceModel.Primitives.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Text.Encoding.Extensions.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Text.Encoding.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Text.RegularExpressions.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Threading.Tasks.Parallel.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Threading.Tasks.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Threading.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Xml.ReaderWriter.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Xml.XDocument.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Xml.XmlSerializer.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Net.Http.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.ComponentModel.DataAnnotations.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Numerics.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.ComponentModel.Composition.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.ServiceModel.dll
+/Volumes/Macintosh HD 2/Code and coding/GitHub/XamarinGenericTabbar/XamarinGenericTabbar/FirstUI/Droid/obj/Debug/assemblies/System.Xml.Linq.dll

@@ -32,7 +32,7 @@ public class TrialSplashScreen extends Activity {
 			public void run ()
 			{
 				finish ();
-				Intent intent = new Intent (TrialSplashScreen.this, firstui.droid.MainActivity.class);
+				Intent intent = new Intent (TrialSplashScreen.this, md5dd098184564f997dc6a636963e8fcd2b.MainActivity.class);
 				intent.setFlags (Intent.FLAG_ACTIVITY_NEW_TASK);
 				startActivity (intent);
 			}
