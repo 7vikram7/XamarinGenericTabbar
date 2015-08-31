@@ -54,7 +54,7 @@ namespace FirstUI
 			CreateClearButton ();
 			CreateSaveButton ();
 
-			CreateChildSuccessPage ();
+//			CreateChildSuccessPage ();
 
 		
 		}
@@ -139,13 +139,13 @@ namespace FirstUI
 
 		public void ClearTapped (object sender, EventArgs e){
 
-//			FirstNameEntry.Text = "";
-//			LastNameEntry.Text = "";
-//			ExperienceEntry.Text = "";
-//			AddressEditor.Text = "";
-//			this.Navigation.PopAsync();
+			FirstNameEntry.Text = "";
+			LastNameEntry.Text = "";
+			ExperienceEntry.Text = "";
+			AddressEditor.Text = "";
+			this.Navigation.PopAsync();
 
-			SuccessPage.Content.IsVisible = false;
+//			SuccessPage.Content.IsVisible = false;
 
 		}
 
@@ -155,7 +155,7 @@ namespace FirstUI
 
 //			this.Navigation.PushAsync(new RegisterViewController());
 
-			SuccessPage.Content.IsVisible = true;
+//			SuccessPage.Content.IsVisible = true;
 
 
 		}

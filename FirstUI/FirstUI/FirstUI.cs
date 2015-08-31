@@ -17,8 +17,9 @@ namespace FirstUI
 		{
 
 //			MainPage = new RegisterViewController();
+			NavigationPage navigationPage =  new NavigationPage(new TabBarPage());
 
-			MainPage = new NavigationPage(new RegisterViewController());
+			MainPage = navigationPage;
 
 //			Dipesh.Clicked += (object sender, EventArgs e) => DipeshTapped(sender, e);
 //
