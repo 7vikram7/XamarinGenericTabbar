@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="iOS/FirstUI.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstUI/SuccessPage.cs">
+    <Files>
+      <File FileName="FirstUI/FirstUI.cs" Line="11" Column="31" />
+      <File FileName="FirstUI/SuccessPage.cs" Line="16" Column="6" />
+      <File FileName="FirstUI/RegisterViewController.cs" Line="29" Column="34" />
+      <File FileName="FirstUI/TabBarPage.cs" Line="5" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
